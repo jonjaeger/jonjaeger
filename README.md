@@ -2,7 +2,7 @@
 - 👀 I’m interested in automation and administration 
 - 🌱 I’m currently learning PowerShell and Ninja Automations
 - 💞️ I’m looking to collaborate on all things Jax IT
-- 📫 How to reach me: jon.jaeger@jax-gear.com or x7703
+- 📫 How to reach me: Email
 
 <!---
 jonjaeger/jonjaeger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
